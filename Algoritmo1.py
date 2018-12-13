@@ -47,6 +47,8 @@ MedD=SD/CD
 print("\n\nLa Media Aritmetica tra i Valori Dispari Inseriti e': ",MedD)
 print("\n\nIl Valore Maggiore e': ",Max)
 print("\n\nIl Valore Minore e': ",Min)
-'''Data:13-12-2018
+'''
+Data:13-12-2018
 Classe: 4^Finf.
-Alunni: Bucchianico Enrico Ruggiero; De Rosa Raffaele; Truglio Andrea.'''
+Alunni: Bucchianico Enrico Ruggiero; De Rosa Raffaele; Truglio Andrea.
+'''
